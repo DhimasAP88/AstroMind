@@ -16,10 +16,7 @@ Game edukasi mobile Android berbasis **Flutter** untuk melatih **Fokus**, **Berh
 
 ## Cara Menjalankan Proyek
 1. Pastikan Flutter SDK telah terpasang di komputer Anda.
-2. Buka folder proyek ini sebagai *active workspace*:
-   ```bash
-   cd /Users/Administrator/.gemini/antigravity/scratch/astromind_edtech
-   ```
+2. Buka folder proyek ini sebagai *active workspace*
 3. Jika folder platform `android/` belum tergenerasi, jalankan perintah inisialisasi platform sekali:
    ```bash
    flutter create . --platforms=android
